@@ -12,7 +12,8 @@ export default function Skills() {
 						Skills &amp; Technologies
 					</h1>
 					<p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-						Lorem ipsum
+						I'm a self-taught Web Developer, learned from books, tutorials and guidance
+						from my mentor <a className="hover:bg-purple-700" href="https://eliasmacielr.org">Elias Maciel</a>.
 					</p>
 				</div>
 				<div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
