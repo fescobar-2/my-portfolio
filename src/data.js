@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: "Turista",
-    subtitle: "PHP, JavaScript",
+    subtitle: "PHP, JavaScript, MySQL",
     description:
       "Website about Local Tourism made with PHP, Javascript and Bootstrap",
     image: "./project-2.gif",
