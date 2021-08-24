@@ -37,15 +37,14 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed/v1/place?q=Av.+Perú+835&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+            src="https://maps.google.com/maps?q=ASUNCION&t=&z=13&ie=UTF8&iwloc=&output=embed"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
-                ADDRESS
+                LOCATION
               </h2>
               <p className="mt-1">
-                Avda. Peru 835 <br />
                 Asuncion, Paraguay
               </p>
             </div>
@@ -56,10 +55,6 @@ export default function Contact() {
               <a className="text-indigo-400 leading-relaxed">
                 fescobar_2@hotmail.com
               </a>
-              <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
-                PHONE
-              </h2>
-              <p className="leading-relaxed">+595982931015</p>
             </div>
           </div>
         </div>
