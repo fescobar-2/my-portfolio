@@ -15,6 +15,13 @@ export const projects = [
     image: "./project-2.gif",
     link: "https://www.turista.com.py",
   },
+  {
+    title: "React Shopping List",
+    subtitle: "React",
+    description: "Shopping List made in React",
+    image: "./project-5.gif",
+    link: "https://shoppinglistreact.netlify.app"
+  }
 ];
 
 export const testimonials = [
