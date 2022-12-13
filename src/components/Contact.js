@@ -42,13 +42,13 @@ export default function Contact() {
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
-                LOCATION
+                Location
               </h2>
               <p className="mt-1">
-                Asuncion, Paraguay
+                L'Hospitalet de Llobregat, Barcelona, Spain
               </p>
             </div>
-            <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
+            <div className="lg:w-1/2 px-6 mt-4 pe-4 lg:mt-0">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
