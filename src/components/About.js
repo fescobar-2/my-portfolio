@@ -8,10 +8,10 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Federico Escobar<br/>
             <br className="hidden lg:inline-block"/>
-            Web Developer with an Electronic Engineer Degree, currently working as IT Analyst.
+            Web Developer with an Electronic Engineer Degree!
           </h1>
           <p className="mb-8 leading-relaxed">
-            Passionate about developing apps and websites! 
+            Passionate about finding solutions to problems! 
             Contact me if you want to work together :)
           </p>
           <div className="flex justify-center">
