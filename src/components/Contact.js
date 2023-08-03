@@ -37,8 +37,7 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7384.462240698757!2d2.1286597016138322!3d41.35895998085281!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a498964ee69d27%3A0x3206b5ff8e7f0844!2sCiutat%20de%20la%20Just%C3%ADcia!5e0!3m2!1sen!2ses!4v1670944733784!5m2!1sen!2ses"
-          />
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115431.02266514047!2d-57.680491088412204!3d-25.296829758020284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x945da8076e69dbf5%3A0xaceb7a46bf1936c9!2zQXN1bmNpw7Nu!5e0!3m2!1ses-419!2spy!4v1691079150028!5m2!1ses-419!2spy"/>
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
