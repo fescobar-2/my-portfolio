@@ -45,7 +45,7 @@ export default function Contact() {
                 LOCATION
               </h2>
               <p className="mt-1">
-                L'Hospitalet de Llobregat, Barcelona, Spain
+                Asunción, Paraguay
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 pe-4 lg:mt-0">
